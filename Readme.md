@@ -37,7 +37,7 @@ Please read the [FAQ](https://dolphin-emu.org/docs/faq/) before using Dolphin.
 * Processor
     * Apple A7 processor or newer. 
 * Ram
-    * Atleast 1GB of Ram.
+    * At least 1GB of Ram.
 
 Dolphin can only be installed on devices that satisfy the above requirements. Attempting to install on an unsupported device will fail and display an error message.
 
